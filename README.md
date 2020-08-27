@@ -1,8 +1,5 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Rajat</h1>
 <h3 align="center">A Machine Learning Researcher</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat-1994" alt="rajat-1994" /> </p>
 
 - 👨‍💻 All of my projects are available [https://github.com/rajat-1994](https://github.com/rajat-1994)
 
